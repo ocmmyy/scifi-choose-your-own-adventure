@@ -1,0 +1,5 @@
+{
+  "name": "Sci-Fi Story Weaver",
+  "description": "An interactive, AI-powered application that generates sci-fi stories paragraph by paragraph. Users guide the narrative by providing prompts, and a corresponding AI-generated image is created for each part of the story, creating a unique multimedia experience.",
+  "requestFramePermissions": []
+}
